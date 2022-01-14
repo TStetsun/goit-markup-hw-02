@@ -89,7 +89,6 @@ a {
 }
 .hero-button {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -112,7 +111,6 @@ a {
 }
 .features-description {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -132,7 +130,6 @@ a {
 }
 .team-role {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: calc(19 / 16);
   text-align: center;
@@ -149,6 +146,7 @@ a {
 }
 .footer-address {
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -188,7 +186,6 @@ a {
 }
 .works-title-pre {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
